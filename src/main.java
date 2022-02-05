@@ -14,7 +14,6 @@ public class main extends PApplet {
     public void setup(){
         frameRate(FRAME_RATE);
         background(BACKGROUND);
-        println("HELLO_WORLD");
     }
 
     public void draw(){
